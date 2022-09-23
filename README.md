@@ -1,7 +1,7 @@
 
 <h3 align="center">Hi there 👋🏽, I'm David Faibil a solution-driven and innovative software engineer studying Computer Engineering at New York City of Technology.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davefcodes" alt="davefcodes" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davefcodes" alt="davefcodes" /></a> </p> -->
 
 - 🔭 I’m currently working on **building Full Stack Web Applications and Portfolio Projects**
 

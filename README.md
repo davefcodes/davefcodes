@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**davefcodes/davefcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi, I'm David Faibil</h1>
 <h3 align="center">a solution-driven and innovative software engineer at New York City of Technology studying Computer Engineering.</h3>
 

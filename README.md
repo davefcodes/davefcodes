@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **davefaibil@gmail.com**
 
-- ⚡ Fun fact **I like to play soccer, basketball and weight lift**
+- ⚡ Fun fact **I led my highschool basketball team to the championship**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

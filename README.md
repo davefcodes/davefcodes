@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **building Full Stack Web Applications and Portfolio Projects**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, C++, Microcomputer Systems Technology, Software Interface.**
+- 🌱 I’m currently learning **Data Structures & Algorithms, C++, Microcomputer Systems Technology and Software Interface.**
 - 💬 Ask me about **Web Applications & Robotics**
 
 - 📫 How to reach me **davefaibil@gmail.com**

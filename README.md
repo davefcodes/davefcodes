@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **building Full Stack Web Applications and Portfolio Projects**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Django, JavaScript and React**
+- 🌱 I’m currently learning **Data Structures & Algorithms and Java**
 - 💬 Ask me about **Web Applications & Robotics**
 
 - 📫 How to reach me **davefaibil@gmail.com**
